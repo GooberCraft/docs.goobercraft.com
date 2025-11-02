@@ -4,8 +4,8 @@ main:
     url: /
   - title: "Documentation"
     url: /docs/getting-started/
-  - title: "Community Rules"
-    url: /docs/community-rules/overview/
+  - title: "Server Rules"
+    url: /docs/server-rules/overview/
   - title: "About"
     url: /about/
 
@@ -15,38 +15,61 @@ docs:
     children:
       - title: "Welcome"
         url: /docs/getting-started/
-      - title: "Quick Start Guide"
-        url: /docs/getting-started/quick-start/
+      - title: "Client Setup"
+        url: /docs/client-setup/
 
-  - title: Community Rules
+  - title: Server Rules
     children:
       - title: "Overview"
-        url: /docs/community-rules/overview/
-      - title: "Code of Conduct"
-        url: /docs/community-rules/code-of-conduct/
-      - title: "Consequences"
-        url: /docs/community-rules/consequences/
-
-  - title: Guidelines
-    children:
-      - title: "Overview"
-        url: /docs/guidelines/overview/
-      - title: "Building Guidelines"
-        url: /docs/guidelines/building/
-      - title: "Communication Guidelines"
-        url: /docs/guidelines/communication/
-      - title: "Resource Guidelines"
-        url: /docs/guidelines/resources/
+        url: /docs/server-rules/overview/
+      - title: "Content Etiquette"
+        url: /docs/server-rules/content-etiquette/
 
   - title: Server Information
     children:
       - title: "Overview"
         url: /docs/server-info/overview/
-      - title: "Server Specifications"
-        url: /docs/server-info/specs/
-      - title: "Gameplay Features"
-        url: /docs/server-info/features/
-      - title: "How to Connect"
-        url: /docs/server-info/connect/
-      - title: "FAQ"
-        url: /docs/server-info/faq/
+      - title: "Server Mods"
+        url: /docs/server-info/mods/
+      - title: "Client-Side Mods"
+        url: /docs/server-info/client-mods/
+      - title: "Server Schedule"
+        url: /docs/server-info/schedule/
+      - title: "Disclaimer"
+        url: /docs/server-info/disclaimer/
+      - title: "Special Thanks"
+        url: /docs/server-info/special-thanks/
+
+  - title: Gameplay Features
+    children:
+      - title: "ModCoin Economy"
+        url: /docs/gameplay/modcoin/
+      - title: "Shopping District"
+        url: /docs/gameplay/shopping-district/
+      - title: "Permit Office"
+        url: /docs/gameplay/permit-office/
+      - title: "Custom Recipes"
+        url: /docs/gameplay/custom-recipes/
+      - title: "Commands Overview"
+        url: /docs/gameplay/commands/overview/
+      - title: "Armor Stand Commands"
+        url: /docs/gameplay/commands/armor-stands/
+
+  - title: Plugins & Tools
+    children:
+      - title: "Status Plugin"
+        url: /docs/plugins/status-plugin/
+      - title: "Villager Optimizer"
+        url: /docs/plugins/villager-optimizer/
+
+  - title: Streaming & Content
+    children:
+      - title: "Guidelines"
+        url: /docs/streaming/guidelines/
+
+  - title: FAQ
+    children:
+      - title: "Frequently Asked Questions"
+        url: /docs/faq/overview/
+      - title: "Voice Chat Setup"
+        url: /docs/faq/voice-chat/
