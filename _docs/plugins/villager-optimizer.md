@@ -1,9 +1,10 @@
 ---
-title: "Villager Optimizer Plugin"
+layout: default
+title: Villager Optimizer Plugin
+parent: Plugins & Tools
+nav_order: 2
 permalink: /docs/plugins/villager-optimizer/
-excerpt: "Details and other information about this plugin and how it works on this server."
 last_modified_at: 2025-11-02
-toc: true
 ---
 
 ## The Plugin

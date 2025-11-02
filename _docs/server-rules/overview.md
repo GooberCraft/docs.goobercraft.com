@@ -1,9 +1,10 @@
 ---
-title: "Server Rules"
+layout: default
+title: Server Rules
+parent: Server Rules
+nav_order: 1
 permalink: /docs/server-rules/overview/
-excerpt: "Complete list of rules and guidelines for playing on the Goobercraft server."
 last_modified_at: 2025-11-02
-toc: true
 ---
 
 ### Goobercraft **Server Rules** {#minecraft-server-rules}

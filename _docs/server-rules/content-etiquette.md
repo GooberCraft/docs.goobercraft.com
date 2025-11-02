@@ -1,9 +1,10 @@
 ---
-title: "Content Etiquette Rules"
+layout: default
+title: Content Etiquette Rules
+parent: Server Rules
+nav_order: 2
 permalink: /docs/server-rules/content-etiquette/
-excerpt: "Guidelines for respecting streamers and content creators on the server."
 last_modified_at: 2025-11-02
-toc: true
 ---
 
 We have members who stream or record content from the server. Please remember that when they are live or recording, they are not just playing  they are working and creating content. To support a positive and respectful environment, all players must follow these guidelines:

@@ -1,9 +1,10 @@
 ---
-title: "Streaming & Content Creation"
+layout: default
+title: Streaming & Content Creation
+parent: Streaming & Content
+nav_order: 1
 permalink: /docs/streaming/guidelines/
-excerpt: "Guidelines for streaming and content creation on the Goobercraft server."
 last_modified_at: 2025-11-02
-toc: true
 ---
 
 We have people who do stream from the server. Please follow these rules as when people are streaming they are making content and working.

@@ -1,9 +1,10 @@
 ---
-title: "Client-Side Mod Information"
+layout: default
+title: Client-Side Mod Information
+parent: Server Information
+nav_order: 3
 permalink: /docs/server-info/client-mods/
-excerpt: "Information about allowed and blacklisted client-side mods for Goobercraft."
 last_modified_at: 2025-11-02
-toc: true
 ---
 
 Client side mods do not require approval by a moderator however, they may not be used if they fall in to one or more of the below categories. If you are found to be using one of these mods, you will face a reminder and/or disciplinary action from the mod team.

@@ -1,9 +1,11 @@
 ---
-title: "Commands List"
+layout: default
+title: Commands List
+parent: Commands
+grand_parent: Gameplay Features
+nav_order: 1
 permalink: /docs/gameplay/commands/overview/
-excerpt: "Below is a list of commands that you may need or find useful."
 last_modified_at: 2025-11-02
-toc: true
 ---
 
 ## DataPacks

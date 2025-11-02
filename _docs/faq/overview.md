@@ -1,9 +1,10 @@
 ---
-title: "F.A.Q."
+layout: default
+title: F.A.Q.
+parent: FAQ
+nav_order: 1
 permalink: /docs/faq/overview/
-excerpt: "Below are some Frequently Asked Questions:"
 last_modified_at: 2025-11-02
-toc: true
 ---
 
 ## General Questions

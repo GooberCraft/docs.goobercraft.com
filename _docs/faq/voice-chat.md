@@ -1,9 +1,10 @@
 ---
-title: "Simple Voice Chat Configuration"
+layout: default
+title: Simple Voice Chat Configuration
+parent: FAQ
+nav_order: 2
 permalink: /docs/faq/voice-chat/
-excerpt: "How to configure the Simple Voice Chat mod for optimal performance."
 last_modified_at: 2025-11-02
-toc: true
 ---
 
 To configure simple voice chat, I recommend the following steps:
