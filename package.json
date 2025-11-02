@@ -1,0 +1,21 @@
+{
+  "name": "goobercraft-docs",
+  "version": "1.0.0",
+  "description": "Goobercraft documentation site built with Jekyll",
+  "scripts": {
+    "lint": "markdownlint '**/*.md' --ignore node_modules --ignore _site --ignore vendor",
+    "lint:fix": "markdownlint '**/*.md' --ignore node_modules --ignore _site --ignore vendor --fix",
+    "lint:check": "markdownlint '**/*.md' --ignore node_modules --ignore _site --ignore vendor --config .markdownlint.json"
+  },
+  "keywords": [
+    "documentation",
+    "jekyll",
+    "minecraft",
+    "goobercraft"
+  ],
+  "author": "Goobercraft",
+  "license": "ISC",
+  "devDependencies": {
+    "markdownlint-cli": "^0.45.0"
+  }
+}

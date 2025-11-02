@@ -1,0 +1,15 @@
+# Ignore build artifacts and dependencies
+
+node_modules/
+_site/
+vendor/
+.bundle/
+
+# Ignore cache directories
+
+.jekyll-cache/
+.sass-cache/
+
+# Ignore specific files that may have special formatting
+
+CHANGELOG.md
