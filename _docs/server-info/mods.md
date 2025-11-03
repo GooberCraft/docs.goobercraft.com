@@ -15,7 +15,7 @@ This page highlights some of the key mods that define the Season 3 experience an
 
 > **Note**: Mod list is pending verification for Season 3.
 
-These mods are suppose to be the star of the show adding new items, features, and experiences to Minecraft.
+These mods are supposed to be the star of the show adding new items, features, and experiences to Minecraft.
 
 | Mod | Description |
 |-----|-------------|
