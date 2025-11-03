@@ -1,9 +1,10 @@
 ---
-title: "Status Plugin"
+layout: default
+title: Status Plugin
+parent: Plugins & Tools
+nav_order: 1
 permalink: /docs/plugins/status-plugin/
-excerpt: "Below is the information of the status plugin that was written for the server."
 last_modified_at: 2025-11-02
-toc: true
 ---
 
 ## Commands

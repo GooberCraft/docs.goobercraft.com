@@ -1,9 +1,10 @@
 ---
-title: "Custom Recipes"
+layout: default
+title: Custom Recipes
+parent: Gameplay Features
+nav_order: 4
 permalink: /docs/gameplay/custom-recipes/
-excerpt: "Below are a short list of custom recipes for various things on the server."
 last_modified_at: 2025-11-02
-toc: true
 ---
 
 ## Books

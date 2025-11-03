@@ -1,9 +1,10 @@
 ---
-title: "Schedule"
+layout: default
+title: Schedule
+parent: Server Information
+nav_order: 4
 permalink: /docs/server-info/schedule/
-excerpt: "Notable dates of server events! May change at anytime!"
 last_modified_at: 2025-11-02
-toc: true
 ---
 
 | Date | Description |

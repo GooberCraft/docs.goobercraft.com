@@ -1,9 +1,10 @@
 ---
-title: "Server Mods"
+layout: default
+title: Server Mods
+parent: Server Information
+nav_order: 2
 permalink: /docs/server-info/mods/
-excerpt: "GooberCraft Season 2 is powered by a custom Forge modpack built to enhance your Minecraft adventures."
 last_modified_at: 2025-11-02
-toc: true
 ---
 
 GooberCraft Season 2 is powered by a custom Forge modpack built to enhance your Minecraft adventures with new biomes, powerful machines, mystical creatures, and loads of decorative blocks. Whether you're here to explore, build, farm, fight dragons, or just vibe with friendsthis pack has something for you.

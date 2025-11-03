@@ -1,9 +1,10 @@
 ---
-title: "Getting Started"
+layout: default
+title: Welcome
+parent: Getting Started
+nav_order: 1
 permalink: /docs/getting-started/
-excerpt: "How to join the Goobercraft SMP Server follow the information down below."
 last_modified_at: 2025-11-02
-toc: true
 ---
 
 1. Make sure you are on Minecraft version 1.21.1, Once on the Minecraft client, click the **Multiplayer** button

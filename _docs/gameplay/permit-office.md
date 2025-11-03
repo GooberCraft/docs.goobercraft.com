@@ -1,9 +1,10 @@
 ---
-title: "Permit Office"
+layout: default
+title: Permit Office
+parent: Gameplay Features
+nav_order: 3
 permalink: /docs/gameplay/permit-office/
-excerpt: "Inside the permit office you will be able to buy a permit to sell items within the shopping district."
 last_modified_at: 2025-11-02
-toc: true
 ---
 
 Any Admin/Mod can assist you with buying a permit when they are online and ready to head over to the permit office.

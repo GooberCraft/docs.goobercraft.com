@@ -1,9 +1,10 @@
 ---
-title: "Client Setup"
+layout: default
+title: Client Setup
+parent: Getting Started
+nav_order: 2
 permalink: /docs/client-setup/
-excerpt: "Instructions for setting up the CurseForge client and installing the GooberCraft Season 2 modpack."
 last_modified_at: 2025-11-02
-toc: true
 ---
 
 ## Details

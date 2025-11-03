@@ -1,9 +1,10 @@
 ---
-title: "Special Thanks"
+layout: default
+title: Special Thanks
+parent: Server Information
+nav_order: 6
 permalink: /docs/server-info/special-thanks/
-excerpt: "We'd like to offer a special thanks to individuals who have offered us help and/or assistance."
 last_modified_at: 2025-11-02
-toc: true
 ---
 
 - AnnimalUwU _(Donation)_

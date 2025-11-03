@@ -1,9 +1,10 @@
 ---
-title: "Server Information"
+layout: default
+title: Overview
+parent: Server Information
+nav_order: 1
 permalink: /docs/server-info/overview/
-excerpt: "Information about the server plugins, datapacks, and configuration."
 last_modified_at: 2025-11-02
-toc: true
 ---
 
 ### Server Plugins

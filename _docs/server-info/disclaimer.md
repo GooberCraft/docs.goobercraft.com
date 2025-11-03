@@ -1,9 +1,10 @@
 ---
-title: "Disclaimer"
+layout: default
+title: Disclaimer
+parent: Server Information
+nav_order: 5
 permalink: /docs/server-info/disclaimer/
-excerpt: "Important disclaimer about changes to documentation and rules."
 last_modified_at: 2025-11-02
-toc: true
 ---
 
 **This document is subject to change at anytime without notice please reference it often.**

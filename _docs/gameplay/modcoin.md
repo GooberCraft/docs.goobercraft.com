@@ -1,9 +1,10 @@
 ---
-title: "Modcoin Information"
+layout: default
+title: Modcoin Information
+parent: Gameplay Features
+nav_order: 1
 permalink: /docs/gameplay/modcoin/
-excerpt: "How to earn and redeem modcoins on the Goobercraft server."
 last_modified_at: 2025-11-02
-toc: true
 ---
 
 ## How do I earn a modcoin?

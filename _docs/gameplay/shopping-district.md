@@ -1,9 +1,10 @@
 ---
-title: "Shopping District"
+layout: default
+title: Shopping District
+parent: Gameplay Features
+nav_order: 2
 permalink: /docs/gameplay/shopping-district/
-excerpt: "The Shopping District is an area to set up shops that sell/trade goods and services."
 last_modified_at: 2025-11-02
-toc: true
 ---
 
 - **Shops Plugin**
