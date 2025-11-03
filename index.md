@@ -5,8 +5,6 @@ nav_order: 1
 permalink: /
 ---
 
-# Welcome to GooberCraft Season 2
-
 Welcome, Goobers! GooberCraft Season 2 is a modded Forge Minecraft server where we build, explore, and thrive together. This documentation site is your one-stop resource for everything you need to know—server rules, mod info, helpful commands, how-tos, and onboarding details for new players.
 
 [Get Started](/docs/getting-started/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }

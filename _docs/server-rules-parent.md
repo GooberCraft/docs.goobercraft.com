@@ -6,6 +6,5 @@ has_children: true
 permalink: /docs/server-rules-parent/
 ---
 
-# Server Rules
 
 Community standards and content creation guidelines for GooberCraft Season 2.

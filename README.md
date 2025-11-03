@@ -291,6 +291,7 @@ When creating new documentation pages:
 
 1. Create the markdown file in the appropriate `_docs/` subdirectory
 2. Add front matter with navigation fields:
+
    ```yaml
    ---
    layout: default
@@ -300,6 +301,7 @@ When creating new documentation pages:
    permalink: /docs/category/page/
    ---
    ```
+
 3. Write your content
 4. The page will automatically appear in navigation based on the `parent` and `nav_order` fields
 

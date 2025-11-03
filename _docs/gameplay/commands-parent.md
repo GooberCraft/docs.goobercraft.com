@@ -7,6 +7,5 @@ has_children: true
 permalink: /docs/gameplay/commands-parent/
 ---
 
-# Commands
 
 Helpful commands and utilities available on GooberCraft.

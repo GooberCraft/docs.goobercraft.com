@@ -6,6 +6,5 @@ has_children: true
 permalink: /docs/plugins-parent/
 ---
 
-# Plugins & Tools
 
 Status indicators, villager optimization, and other helpful tools.
