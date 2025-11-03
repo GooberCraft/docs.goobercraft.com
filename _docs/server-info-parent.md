@@ -7,4 +7,4 @@ permalink: /docs/server-info-parent/
 ---
 
 
-Complete mod list, plugins, and technical details about GooberCraft Season 2.
+Complete mod list, plugins, and technical details about GooberCraft Season 3.

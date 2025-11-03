@@ -7,4 +7,4 @@ permalink: /docs/server-rules-parent/
 ---
 
 
-Community standards and content creation guidelines for GooberCraft Season 2.
+Community standards and content creation guidelines for GooberCraft Season 3.
