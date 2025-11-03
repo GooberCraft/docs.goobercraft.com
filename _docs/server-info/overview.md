@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Server Information
+title: Overview
 parent: Server Information
 nav_order: 1
 permalink: /docs/server-info/overview/

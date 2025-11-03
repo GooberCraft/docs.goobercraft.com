@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Getting Started
+title: Welcome
 parent: Getting Started
 nav_order: 1
 permalink: /docs/getting-started/

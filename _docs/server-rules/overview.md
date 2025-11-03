@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Server Rules
+title: Overview
 parent: Server Rules
 nav_order: 1
 permalink: /docs/server-rules/overview/
