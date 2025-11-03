@@ -1,7 +1,7 @@
-name: Deploy Jekyll site to Pages
+name: Deploy to GitHub Pages
 
 on:
-  # Runs on pushes targeting the default branch
+  # Runs ONLY on pushes to master branch
   push:
     branches: ["master"]
 
