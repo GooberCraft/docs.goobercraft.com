@@ -1,6 +1,6 @@
 # Goobercraft Documentation
 
-Official documentation site for GooberCraft Season 2 - A modded Forge Minecraft server. This repository contains all documentation for server rules, gameplay features, mod information, and more.
+Official documentation site for GooberCraft Season 3 - A modded Forge Minecraft server. This repository contains all documentation for server rules, gameplay features, mod information, and more.
 
 ## About
 

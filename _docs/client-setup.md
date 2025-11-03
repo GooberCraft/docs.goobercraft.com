@@ -13,7 +13,9 @@ The modpack requires the CurseForge client that can be downloaded from here: [ht
 
 If you do not have it installed already, I recommend downloading the standalone client as the Overwolf client is kind of heavy resource wise. If you already use Overwolf for other things, feel free to install it via Overwolf.
 
-GooberCraft Season 2 uses a custom modpack. You can find the modpack here: [https://www.curseforge.com/minecraft/modpacks/goobercraft-season-2](https://www.curseforge.com/minecraft/modpacks/goobercraft-season-2)
+GooberCraft Season 3 uses a custom modpack.
+
+> **Note**: The Season 3 CurseForge modpack URL will be updated once available.
 
 Once you are on the modpack page, please click "Install" and then "Open CurseForge" when prompted. The modpack will download and install automatically.
 

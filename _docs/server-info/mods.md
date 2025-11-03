@@ -7,11 +7,13 @@ permalink: /docs/server-info/mods/
 last_modified_at: 2025-11-02
 ---
 
-GooberCraft Season 2 is powered by a custom Forge modpack built to enhance your Minecraft adventures with new biomes, powerful machines, mystical creatures, and loads of decorative blocks. Whether you're here to explore, build, farm, fight dragons, or just vibe with friendsthis pack has something for you.
+GooberCraft Season 3 is powered by a custom Forge modpack built to enhance your Minecraft adventures with new biomes, powerful machines, mystical creatures, and loads of decorative blocks. Whether you're here to explore, build, farm, fight dragons, or just vibe with friendsthis pack has something for you.
 
-This page highlights some of the key mods that define the Season 2 experience and give GooberCraft its unique flavor.
+This page highlights some of the key mods that define the Season 3 experience and give GooberCraft its unique flavor.
 
 ### Featured Mods
+
+> **Note**: Mod list is pending verification for Season 3.
 
 These mods are suppose to be the star of the show adding new items, features, and experiences to Minecraft.
 
